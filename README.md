@@ -1,6 +1,6 @@
 # Examples for my talk on structuring Go apps.
 
-Note: I created an updated version of this repo [here](https://github.com/katzien/app-structure-examples)! These talks are 3+ years old now and I've changed my opinion on some of this stuff since then, so don't treat them as 100% "up to date". 🙂
+Note: I created an updated version of this repo [here](https://github.com/katzien/app-structure-examples)! These talks are 3+ years old now and I've changed my opinion on some of this stuff since then, so don't treat them as gospel. 🙂
 
 ## Links to video and slides:
 
